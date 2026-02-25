@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Merhaba, ben İdil Bilgen
 
-<!--
-**idilblgn/idilblgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Türk Hava Kurumu Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
+💡 Yazılım test alanına odaklanıyor, kaliteli ve doğru test senaryoları oluşturabilen bir **QA Test Mühendisi** olmayı hedefliyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Yeteneklerim
+
+**💻 Programlama & Teknolojiler**
+`Java` • `Python` • `SQL` • `HTML/CSS`
+
+**🧪 Test & QA Araçları**
+`Postman` • `Pytest` • `JMeter` • `Selenium IDE`
+
+**📋 Süreç & Yönetim**
+`Jira (Kanban & Scrum)`
+
+---
+
+## 🎯 Kariyer Hedefim
+
+Test süreçlerinde uzmanlaşarak yazılım kalitesini artıran, hataları erken aşamada yakalayan ve güçlü test senaryoları tasarlayan bir QA mühendisi olmak.
+
+---
+
+⭐️ Profilime göz attığın için teşekkür ederim!
